@@ -1,0 +1,2 @@
+
+ streamlit run "D:\EXTRA PROJECT\Multiple Disease prediction system\multiple diseasse pred.py"
